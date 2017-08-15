@@ -5,7 +5,7 @@ least 4 letters in the word and at least as many anagrams as there are letters.
 Dictionary file is assumed to be at /usr/share/dict/words, modify
 DICTIONARY_FILE to specify another location.
 
-Includes two units tests from test dictionary files.
+Includes two unit tests from test dictionary files.
 
 to run main program:
 python anagram_finder.py
